@@ -1,0 +1,9 @@
+#Library
+#** là không đưa lên code toàn bộ
+# ! là  đưa file đó lên 
+# *thì đưa lên những file nào có thên log
+
+node_modules/**
+dist/**.js
+layout.js/
+log*
